@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: The Content Injection 1.0
-Plugin URI: http://www.facebook.com/ashlife24
+Plugin Name: The Content Injection
+Plugin URI: http://www.ashishdas.com
 Description: Puts User Defined Codes Before and After Content of Single Posts.
-Version: 1.0
+Version: 2.0
 Author: Aashish Das
-Author URI: http://www.ashlife.com/tc-injection
+Author URI: http://www.ashishdas.com
 License: GPL
 */
 add_option("tc_code_before" , "Sample Codes"  );

@@ -3,19 +3,18 @@ Contributors: Ashish Das
 Donate link: http://www.ashlife.com/tc-injection
 Tags: code insert, top of content, bottom of content
 Requires at least: 2.1
-Tested up to: 3.3
-Stable tag: 1.0
+Tested up to: 4
+Stable tag: 2.0
 
 Inserts Custom Code/Text/HTML before and After Content Text of Posts in Single Page
 
 == Description ==
 
-This is One of the most simple Plugin, it can insert Custom Code/Text/HTML to the Deginning and End of Content Text of Blog Posts in Single Post.
-Very usefull of those who don't know php well or find it hard to edit theme files to manually insert codes/text/html in the described locations.
+This is One of the most simple Plugin, it can insert Custom Code/Text/HTML to the Beginning and End of Content Text of Blog Posts in Single Post.
+Very usefull of those who don't know php well or find it hard to edit theme files to manually insert codes/text/html in the described locations. You don't have to add codes to both the spot together, you can any one of the spots blank too.
 
 
-Any problems please [get in touch](http://www.ashlife.com)
-or catch me on facebook (http://www.fb.com/ashlife24)
+Catch me @ashlifeonline
 
 == Installation ==
 
@@ -29,6 +28,8 @@ or catch me on facebook (http://www.fb.com/ashlife24)
 == Screenshots ==
 
 == Changelog ==
+
+1. Updated to work with Wordpress 4.
 
 
 
